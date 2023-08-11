@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://platform.cloud.coveo.com"
+      "url": "https://api.cloud.coveo.com/push/v1/organizations/pqjybgdzgm2zhxyu6j3xnlpcaea/sources/pqjybgdzgm2zhxyu6j3xnlpcaea-qqrnhrp6ehvbvjaqyv3s262atq/documents"
     }
   ],
   "paths": {
